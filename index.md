@@ -1,6 +1,6 @@
 ## Welcome to Connor's Github Page
 
-<a href="test.html">help</a>
+<a href="test.html">Test Prep</a>
 
 You can use the [editor on GitHub](https://github.com/connorw72/connorapcsptri3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
