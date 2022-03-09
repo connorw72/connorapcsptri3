@@ -1,5 +1,12 @@
 ## Welcome to Connor's Github Page
 
+---
+layout: default
+---
+{% include navigation.html %}
+
+{% include_relative README.md %}
+
 <a href="test.html">Test Prep</a>
 
 You can use the [editor on GitHub](https://github.com/connorw72/connorapcsptri3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
