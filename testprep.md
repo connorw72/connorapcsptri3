@@ -2,5 +2,5 @@
 
 | Unit | Notes | Actions  |
 | :-: |  :----: |  :---: |
-| 5.1 Beneficial and Harmful Effects | <img width="727" alt="image" src="https://user-images.githubusercontent.com/89223703/157786979-344759e4-4d91-4d00-a77b-7839f9ead746.png"> | Here's this   |
-| 5.2 Digital Divide  | Text        | And more      |
+| 5.1 Beneficial and Harmful Effects | <img width="828" alt="image" src="https://user-images.githubusercontent.com/89223703/157787332-77fdc42d-d9d7-4f80-8352-3274071781e8.png"> | Here's this   |
+| 5.2 Digital Divide  | <img width="699" alt="image" src="https://user-images.githubusercontent.com/89223703/157787312-a359e137-b228-4da1-9e3b-d39d7f2fa04a.png">       | And more      |
