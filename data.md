@@ -1,5 +1,10 @@
 {% include navigation.html %}
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ConnorWang7/connorapcsptri3#main.py?lite=true"></iframe>
+# [Github Code](https://github.com/connorw72/connorapcsptri3/find/main)
+
+
+<div class="row justify-content-center" style="margin: 10%;">
+       <iframe height="800px" width="100%" src="https://repl.it/@ConnorWang7/connorapcsptri3?lite=true"></iframe>
+</div>
 
 
