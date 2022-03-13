@@ -2,10 +2,12 @@ import shipanimation
 import faceanimation
 import swap
 import keypad
+import tree
 
 main_menu = [
     ["Swap", "swap.py"],
-    ["Keypad", "keypad.py"]
+    ["Keypad", "keypad.py"],
+    ["Tree", "tree.py"]
 ]
 
 animationsub_menu = [
