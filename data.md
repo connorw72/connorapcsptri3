@@ -2,15 +2,18 @@
 
 # [Github Code](https://github.com/connorw72/connorapcsptri3/find/main)
 
-Animation Sub Menu
-<img width="496" alt="image" src="https://user-images.githubusercontent.com/89223703/158264403-ad9e451d-6dc2-499a-abbf-150ef30c1446.png">
-
-Part of Face Animation
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/89223703/158264459-61292783-5a73-490e-ab3e-5c489e8b038f.png">
-
-
 <div class="row justify-content-center" style="margin: 10%;">
        <iframe height="800px" width="100%" src="https://repl.it/@ConnorWang7/connorapcsptri3?lite=true"></iframe>
 </div>
+
+Animation Sub Menu - This function creates the animation sub menu. This is where each python file is referenced and put on the menu.
+<img width="496" alt="image" src="https://user-images.githubusercontent.com/89223703/158264403-ad9e451d-6dc2-499a-abbf-150ef30c1446.png">
+
+Part of Face Animation - This part of the face animation gives the image that is presented to the viewer. This is one part of the animaton.
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/89223703/158264459-61292783-5a73-490e-ab3e-5c489e8b038f.png">
+
+Tree - This part of the code gets the height from the user. Upon getting the height, it uses a loop to go through the height and create the tree by adding a star until the desired height.
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/89223703/158697462-0191f3c4-2bca-41b4-958c-7dbed1502c85.png">
+
 
 
