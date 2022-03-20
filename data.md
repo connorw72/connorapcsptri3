@@ -21,6 +21,10 @@
 * InfoDB Loops - This is what displays the data. These 3 types of loops are used to display the data, and this is what calls to these loop functions
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/89223703/159176077-a90fe1d5-00e0-4320-b863-469f2aed3ce4.png">
 
+* Fibonacci - This is the recursive program that loops through to make the fibonacci sequence. The Try except follows, and is used when displaying the fibonacci sequence.
+<img width="516" alt="image" src="https://user-images.githubusercontent.com/89223703/159176948-d7585875-5b01-4518-b281-0ff76041eca2.png">
+
+
 
 
 
