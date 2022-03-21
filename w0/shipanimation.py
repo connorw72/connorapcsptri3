@@ -167,7 +167,7 @@ def ship20():
     print("\u001b[34m -------------------------------------------- \u001b[37m")
 
 
-if __name__ == "__main__":
+def main():
   time.sleep(.1)
   ship1()
   time.sleep(.5)

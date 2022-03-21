@@ -27,7 +27,7 @@ def smile3():
     print(" | / \ |  ")
     print(" |_____| ")
   
-if __name__ == "__main__":
+def main():
   time.sleep(.1)
   smile1()
   time.sleep(.5)

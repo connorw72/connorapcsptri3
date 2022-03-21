@@ -1,18 +1,24 @@
-import shipanimation
-import faceanimation
-import swap
-import keypad
-import tree
+import w0.shipanimation
+import w0.faceanimation
+import w0.swap
+import w0.keypad
+import w0.tree
+import w1.fibonacci
+import w1.infodb
 
 main_menu = [
-    ["Swap", "swap.py"],
-    ["Keypad", "keypad.py"],
-    ["Tree", "tree.py"]
+    ["Swap", w0.swap.main],
+    ["Keypad", w0.keypad.main],
+    ["Tree", w0.tree.main]
 ]
 
 animationsub_menu = [
-    ["Ship Animation", "shipanimation.py"],
-    ["Face Animation", "faceanimation.py"]
+    ["Ship Animation", w0.shipanimation.main],
+    ["Face Animation", w0.faceanimation.main]
+]
+landlsub_menu = [
+    ["InfoDB", w1.infodb.main],
+    ["Fibonacci", w1.fibonacci.display]
 ]
 
 border = "=" * 25
@@ -50,12 +56,16 @@ def buildMenu(banner, options):
 def animationsubmenu():
     title = "Function Submenu" + banner
     buildMenu(title, animationsub_menu)
+def landlsubmenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, landlsub_menu)
 
 
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Animations", animationsubmenu])
+    menu_list.append(["Lists and Loops", landlsubmenu])
     buildMenu(title, menu_list)
 
 
