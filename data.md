@@ -24,6 +24,17 @@
 * Fibonacci - This is the recursive program that loops through to make the fibonacci sequence. The Try except follows, and is used when displaying the fibonacci sequence. It uses recur_fibonacci sequence to display the sequence, and the amount of terms in the sequence that the user wants.
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/89223703/159176948-d7585875-5b01-4518-b281-0ff76041eca2.png">
 
+* Organization - This is the organization of my files. It goes by week, with the menu outside of these as it not based on one specific week
+<img width="208" alt="image" src="https://user-images.githubusercontent.com/89223703/160251556-8496e223-cef9-455a-b4f9-efbe44e9a232.png">
+
+* Factorial function - This factorial function uses classes and calls, with the class of factorial and the call being what the class itself actually does.
+<img width="534" alt="image" src="https://user-images.githubusercontent.com/89223703/160251583-33092dc7-8931-4a5b-b0d5-612ea8a21597.png">
+
+* Math Function (GCD) - I chose the GCD math function. Written in both imperative and oop format, the imperative format uses a function of findgcd to execute the code. The class gcd uses call to execute the gcd function.
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/89223703/160251630-92461b4b-a3d9-4b17-9f8c-60018a51aad8.png">
+
+
+
 
 
 
