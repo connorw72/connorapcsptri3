@@ -5,20 +5,26 @@ import w0.keypad
 import w0.tree
 import w1.fibonacci
 import w1.infodb
+import w2.factorial
+import w2.math
 
 main_menu = [
     ["Swap", w0.swap.main],
     ["Keypad", w0.keypad.main],
-    ["Tree", w0.tree.main]
 ]
 
-animationsub_menu = [
+artsub_menu = [
     ["Ship Animation", w0.shipanimation.main],
-    ["Face Animation", w0.faceanimation.main]
+    ["Face Animation", w0.faceanimation.main],
+    ["Tree", w0.tree.main]
 ]
 landlsub_menu = [
     ["InfoDB", w1.infodb.main],
     ["Fibonacci", w1.fibonacci.display]
+]
+mathsub_menu = [
+    ["Factorial", w2.factorial.main],
+    ["Greatest Common Denominator", w2.math.gcd],
 ]
 
 border = "=" * 25
@@ -53,19 +59,22 @@ def buildMenu(banner, options):
     buildMenu(banner, options)
 
 
-def animationsubmenu():
+def artsubmenu():
     title = "Function Submenu" + banner
-    buildMenu(title, animationsub_menu)
+    buildMenu(title, artsub_menu)
 def landlsubmenu():
     title = "Function Submenu" + banner
     buildMenu(title, landlsub_menu)
-
+def mathsubmenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, mathsub_menu)
 
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Animations", animationsubmenu])
+    menu_list.append(["Art", artsubmenu])
     menu_list.append(["Lists and Loops", landlsubmenu])
+    menu_list.append(["Math", mathsubmenu])
     buildMenu(title, menu_list)
 
 
