@@ -11,8 +11,10 @@ class Palindrome:
         else:
             return "is not a palindrome"
 # Testing these to see if they are palindromes
-test_cases = ["A man, a plan, a canal -- Panama",  "racecar", "broncos"]
+test_cases = ["A man, a plan, a canal -- Panama",  "racecar", "broncos", "r%ace /!@# ca%r", "#Heyyo!#!"]
+badchar = " !@#$%^&*()/~|"
 
+#good job factoring out if it has abd char or not, not exactly sure how you did though since you never explicitly remove
 def main():
   try:
       for v in test_cases:
