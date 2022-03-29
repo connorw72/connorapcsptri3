@@ -20,10 +20,12 @@ class gcd:
     if n2 > n1:
       self.n2 = n2 - n1
     return n1
-           
+
+
+
 def gcd():
     a = int(input(" Enter the First Value for GCD: "))
     b = int(input(" Enter the Second Value for GCD: "))
     gcd = findgcd(a, b)
     print("\n GCD of {0} and {1} is: {2}".format(a, b, gcd))
-    print()
+    print() 

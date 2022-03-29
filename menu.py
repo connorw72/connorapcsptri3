@@ -7,6 +7,9 @@ import w1.fibonacci
 import w1.infodb
 import w2.factorial
 import w2.math
+import w2.lcm
+from w2.lcm import *
+
 
 main_menu = [
     ["Swap", w0.swap.main],
@@ -25,6 +28,7 @@ landlsub_menu = [
 mathsub_menu = [
     ["Factorial", w2.factorial.main],
     ["Greatest Common Denominator", w2.math.gcd],
+    ["LCM", "w2/lcm.py"]
 ]
 
 border = "=" * 25
