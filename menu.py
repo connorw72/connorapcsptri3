@@ -13,8 +13,7 @@ from w2.lcm import *
 
 
 main_menu = [
-    ["Swap", w0.swap.main],
-    ["Keypad", w0.keypad.main],
+    ["InfoDB", w1.infodb.main],
 ]
 
 artsub_menu = [
@@ -22,15 +21,15 @@ artsub_menu = [
     ["Face Animation", w0.faceanimation.main],
     ["Tree", w0.tree.main]
 ]
-landlsub_menu = [
-    ["InfoDB", w1.infodb.main],
-    ["Fibonacci", w1.fibonacci.display]
-]
+
 mathsub_menu = [
     ["Factorial", w2.factorial.main],
     ["Greatest Common Denominator", w2.math.gcd],
     ["Palindrome", w2.palindrome.main],
-    ["LCM", "w2/lcm.py"]
+    ["LCM", "w2/lcm.py"],
+    ["Swap", w0.swap.main],
+    ["Keypad", w0.keypad.main],
+    ["Fibonacci", w1.fibonacci.display]
 ]
 
 border = "=" * 25
@@ -68,9 +67,6 @@ def buildMenu(banner, options):
 def artsubmenu():
     title = "Function Submenu" + banner
     buildMenu(title, artsub_menu)
-def landlsubmenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, landlsub_menu)
 def mathsubmenu():
     title = "Function Submenu" + banner
     buildMenu(title, mathsub_menu)
@@ -79,7 +75,6 @@ def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Art", artsubmenu])
-    menu_list.append(["Lists and Loops", landlsubmenu])
     menu_list.append(["Math", mathsubmenu])
     buildMenu(title, menu_list)
 
