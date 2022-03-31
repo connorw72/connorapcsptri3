@@ -8,7 +8,7 @@ import w1.infodb
 import w2.factorial
 import w2.math
 import w2.palindrome
-
+import w2.game
 main_menu = [
     ["Swap", w0.swap.main],
     ["Keypad", w0.keypad.main],
@@ -17,7 +17,8 @@ main_menu = [
 artsub_menu = [
     ["Ship Animation", w0.shipanimation.main],
     ["Face Animation", w0.faceanimation.main],
-    ["Tree", w0.tree.main]
+    ["Tree", w0.tree.main],
+    ["RPS", w2.game.play]
 ]
 landlsub_menu = [
     ["InfoDB", w1.infodb.main],
