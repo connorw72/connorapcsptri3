@@ -9,6 +9,7 @@ import w2.factorial
 import w2.math
 import w2.palindrome
 import w2.lcm
+import w3.paint
 from w2.lcm import *
 
 
@@ -19,7 +20,10 @@ main_menu = [
 artsub_menu = [
     ["Ship Animation", w0.shipanimation.main],
     ["Face Animation", w0.faceanimation.main],
-    ["Tree", w0.tree.main]
+    ["Tree", w0.tree.main],
+    ["Waterfall", w3.paint.water],
+    ["Clouds", w3.paint.clouds],
+    ["Rainbow", w3.paint.rain]
 ]
 
 mathsub_menu = [
