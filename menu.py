@@ -10,8 +10,15 @@ import w2.math
 import w2.palindrome
 import w2.lcm
 import w3.paint
-from w2.lcm import *
 
+from time import sleep
+import sys
+welcome = "Welcome to Connor's Menu"
+def yo():
+  for x in welcome:
+    print(x, end='')
+    sys.stdout.flush()
+    sleep(0.1)
 
 main_menu = [
     ["InfoDB", w1.infodb.main],
@@ -76,7 +83,7 @@ def mathsubmenu():
     buildMenu(title, mathsub_menu)
 
 def menu():
-    title = "Function Menu" + banner
+    title = "!" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Art", artsubmenu])
     menu_list.append(["Math", mathsubmenu])
@@ -84,4 +91,5 @@ def menu():
 
 
 if __name__ == "__main__":
+    yo()
     menu()
