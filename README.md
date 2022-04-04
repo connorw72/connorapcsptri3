@@ -6,7 +6,7 @@
 1. [Week 0](https://github.com/connorw72/connorapcsptri3/issues/1)
 2. [Week 1](https://github.com/connorw72/connorapcsptri3/issues/2)
 3. [Week 2](https://github.com/connorw72/connorapcsptri3/issues/4)
-4. [Week 3 (Algorithmic Final](https://github.com/connorw72/connorapcsptri3/issues/6)
+4. [Week 3 (Algorithmic Final)](https://github.com/connorw72/connorapcsptri3/issues/6)
 
 # Time Box Tri 2
 <table>
