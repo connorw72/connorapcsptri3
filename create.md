@@ -62,7 +62,7 @@ We will create a jeopardy game consisting of a score and a bunch of true or fals
 <img width="102" alt="Screen Shot 2022-02-26 at 3 55 36 PM" src="https://user-images.githubusercontent.com/60719508/155862741-b5db6f34-2050-4097-bd1b-adf45d770638.png">
 
 # Video
-1. [Connor's Video](https://www.loom.com/share/68b3ac7cf283495e9eb2b6b3c92c1e07)
+<div style="position: relative; padding-bottom: 56.60377358490566%; height: 0;"><iframe src="https://www.loom.com/embed/f9677069bf7c418c82362a08286d0da0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 # Write Up
 1. [Connor's Write Up](https://docs.google.com/document/d/1_4FAIjCH01kzIAXjQyXlkBfgSHvpRJKDI5BFzzOltrY/edit?usp=sharing)
