@@ -16,7 +16,7 @@
 
 # Finals - Quiz 2 Taken on 4/21/22 Corrections
 
-# Score - 43/50
+## Score - 43/50
 <img width="1435" alt="image" src="https://user-images.githubusercontent.com/89223703/164799287-4f85853c-a0f6-4d3a-bf4f-3d2bf19526aa.png">
 
 * Q12 - Getting descriptions and photographs of local landmarks would benefit the most from crowdsourcing. The option I picked would not benefit from having multiple users do it, and it would be each user compressing their own data. Getting photos and descriptions from others is the best way, which is done through crowdsourcing. 
