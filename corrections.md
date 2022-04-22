@@ -14,4 +14,12 @@
 * Q40 - Requiring every school to meet a requirement will ensure that all students get a certain level of computing. This helps, as everyone will have a similar level of technology. Not everyone will have access to the city Web site, so putting all the documents there would not help the digital divide.
 * Q50 - The original process is lossy because there is only a small loss of image quality. Even this small loss makes it lossy. Creating a new RGB Triplet make it lossless because the original has the ability to be restored.
 
+# Finals - Quiz 2 Taken on 4/21/22 Corrections
 
+# Score - 43/50
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/89223703/164799287-4f85853c-a0f6-4d3a-bf4f-3d2bf19526aa.png">
+
+* Q12 - Getting descriptions and photographs of local landmarks would benefit the most from crowdsourcing. The option I picked would not benefit from having multiple users do it, and it would be each user compressing their own data. Getting photos and descriptions from others is the best way, which is done through crowdsourcing. 
+* Q21 - Storing all the data in a database would not change the data storage needed. Instead, it will increase it as all the data remains in the code. Instead, using a database will allow for machine learning which can then be used to make improvements to the application based on the user behavior that is gathered. 
+* Q22 - I was unfamiliar with the differences between IPv6 and IPv4. IP addresses are hierarchial no matter what. IPv6 does allow for more devices thatn 4, because it has a greater number of IP addresses
+* Q24 - 
