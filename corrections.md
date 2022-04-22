@@ -22,4 +22,7 @@
 * Q12 - Getting descriptions and photographs of local landmarks would benefit the most from crowdsourcing. The option I picked would not benefit from having multiple users do it, and it would be each user compressing their own data. Getting photos and descriptions from others is the best way, which is done through crowdsourcing. 
 * Q21 - Storing all the data in a database would not change the data storage needed. Instead, it will increase it as all the data remains in the code. Instead, using a database will allow for machine learning which can then be used to make improvements to the application based on the user behavior that is gathered. 
 * Q22 - I was unfamiliar with the differences between IPv6 and IPv4. IP addresses are hierarchial no matter what. IPv6 does allow for more devices thatn 4, because it has a greater number of IP addresses
-* Q24 - 
+* Q24 - Redundancy allows for multiple paths, however the same amount of packets are required. If some paths fail, there are still paths for packets to be sent on, which is the benefit as there could be another route for data to be sent.
+* Q30 - The first value must be 75, which is represented in binary by 01001011, and the third must be 130 which is represented through binary as 010000010, as it is 2^7 + 2^1.
+* Q35 - Integers are not subject to rounding areas. An overflow error can occur when an arithmetic operation results in a value that is not within the the range of numbers that can be represented through the bits.
+* Q43 - The code segment I chose will put the robot in the bottom right corner, which is not what the original robot goes. Instead, using part A utilizes the segment by adding 1 to count each time in order to end at the same spot as the original code.
