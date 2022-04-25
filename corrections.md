@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
-# Study Plan
-Monday - 
+# [Study Plan](https://github.com/connorw72/connorapcsptri3/issues/9)
+
 # AP Test Preparation Corrections
 
 # Finals - Quiz 1 Taken on 4/19/22 Corrections
