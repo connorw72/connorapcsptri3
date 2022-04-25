@@ -9,6 +9,7 @@
 4. [Week 3 (Algorithmic Final)](https://github.com/connorw72/connorapcsptri3/issues/6)
 5. [Crossover grade - my grade of Akhil and Isaac video on Isaac's review ticket](https://github.com/Isaac-Le/Tri3Repo/issues/5)
 6. [Week 4](https://github.com/connorw72/connorapcsptri3/issues/8)
+7. [Week 5](https://github.com/connorw72/connorapcsptri3/issues/10)
 
 # Time Box Tri 2
 <table>
