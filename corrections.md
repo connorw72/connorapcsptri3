@@ -28,3 +28,13 @@
 * Q30 - The first value must be 75, which is represented in binary by 01001011, and the third must be 130 which is represented through binary as 010000010, as it is 2^7 + 2^1.
 * Q35 - Integers are not subject to rounding areas. An overflow error can occur when an arithmetic operation results in a value that is not within the the range of numbers that can be represented through the bits.
 * Q43 - The code segment I chose will put the robot in the bottom right corner, which is not what the original robot goes. Instead, using part A utilizes the segment by adding 1 to count each time in order to end at the same spot as the original code.
+
+# Finals - Quiz 3 Taken on 4/26/22
+
+## Score - 46/50
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/89223703/165631949-8a5d1630-12d0-46e8-bd39-c3eb976c652f.png">
+
+* Q20 - For some reason on this question I messed up and counted the first 1 as 2. So, I thought that the binary was both greater than the decimal as it would go to 2^4. However, this is not the case and it starts at 1, so 12 is greater than binary 1011.
+* Q35 - The web store that the music was purchased from was liscensed, so there was no violation of DMCA.
+* Q43 - Individuals who sign up for the premium account do not get advertisements, so they could not get targetted by ads.
+* Q47 - I got one of the answers right, however the other one had one of the variables set >100, which was not right.
