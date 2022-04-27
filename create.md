@@ -61,7 +61,7 @@ We will create a jeopardy game consisting of a score and a bunch of true or fals
 <img width="85" alt="Screen Shot 2022-02-26 at 3 55 26 PM" src="https://user-images.githubusercontent.com/60719508/155862740-b8ac3c2a-ad73-49a0-9dc7-5f560fd83504.png">
 <img width="102" alt="Screen Shot 2022-02-26 at 3 55 36 PM" src="https://user-images.githubusercontent.com/60719508/155862741-b5db6f34-2050-4097-bd1b-adf45d770638.png">
 
-# Video
+# Video MAKE THIS 40 SECONDS
 <div style="position: relative; padding-bottom: 56.60377358490566%; height: 0;"><iframe src="https://www.loom.com/embed/f9677069bf7c418c82362a08286d0da0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 # Write Up
