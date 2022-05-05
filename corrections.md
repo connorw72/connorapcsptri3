@@ -38,3 +38,15 @@
 * Q35 - The web store that the music was purchased from was liscensed, so there was no violation of DMCA.
 * Q43 - Individuals who sign up for the premium account do not get advertisements, so they could not get targetted by ads.
 * Q47 - I got one of the answers right, however the other one had one of the variables set >100, which was not right.
+
+# Finals - Quiz 5 Taken on 5/4/22
+
+## Score - 46/50
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/89223703/167028609-af59ceee-d20e-4f7e-b21b-6cc8a13be2ec.png">
+
+* Q15 - Both will display the same number of values, however they are different values. The one that starts with displaying i will end at 10 while the one that starts with i + 1 will include 11.
+* Q30 - By putting it between lines 7 and 8 it ensures that all elements will be checked. Putting it between 6 and 7 does not go through every single element that it needs to.
+* Q43 - Encryption is not required for communications, so the internet is not always secure. Open protocols are used to allow an increasing number of devices to connect to the internet, allowing it to support an increasing number of users.
+* Q49 - The choice I selected would give B because presentation is over 75. When exam is 80 but presentation is 60, C will be selected.
+
+
