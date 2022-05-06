@@ -11,6 +11,7 @@
 6. [Week 4](https://github.com/connorw72/connorapcsptri3/issues/8)
 7. [Week 5](https://github.com/connorw72/connorapcsptri3/issues/10)
 8. [Proctored MCQ Week 2](https://github.com/connorw72/connorapcsptri3/issues/11)
+9. [Proctored MCQ Quiz 5](https://github.com/connorw72/connorapcsptri3/issues/13)
 
 # Time Box Tri 2
 <table>
